@@ -50,3 +50,7 @@ Here's a few lines of temples, just for example:
 7. Add in the whole list of temples from: https://churchofjesuschristtemples.org/temples/chronology/.
 8. Click the "play" button, and view the graph below.
 9. Get rid of the first several lines of temples, so that you can have a proper view.
+
+## Next steps
+
+Using the bottom lists of https://churchofjesuschristtemples.org/temples/chronology/, which year had the most announced temples?
