@@ -7,6 +7,8 @@ If you follow the instructions below, in just 5 minutes you'll be able to:
 
 Even if you're not a software engineer, you can follow the steps below and this video to write a computer program in no time at all.
 
+Video tutorial of steps below: https://youtu.be/8vF2j8dQCao
+
 ## The challenge
 
 Take a look at this site: https://churchofjesuschristtemples.org/temples/chronology/.
