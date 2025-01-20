@@ -1,11 +1,11 @@
 # temple-distribution
 
-If you follow the instructions below, in just 5 minutes you'll be able to:
-1. Use AI to help you write a computer program
-2. Run that program to produce a graph
-3. And all of this for free!
+If you follow the instructions/video below, in just 5 minutes you'll be able to:
+1. Use AI to help you write a code script.
+2. Run that script to produce a graph.
+3. And all of this for free, without downloading anything.
 
-Even if you're not a software engineer, you can follow the steps below and this video to write a computer program in no time at all.
+Even if you're not a software engineer, you can follow the steps below and this video to write a script in no time at all.
 
 Video tutorial of steps below: https://youtu.be/8vF2j8dQCao
 
@@ -19,7 +19,7 @@ A very simple computer program could figure this out.  But, you're not a softwar
 
 ## AI to the rescue
 
-ChatGPT now allows minimal features for free - without even an account.  Although I highly recommend creating a free account with ChatGPT, for the sake of this tutorial, I'll assume you'll use the public version that doesn't require an account.
+ChatGPT is available for free - without even an account (limited features with no account though).  Although if you want an account, it's free and I highly recommend it.
 
 Steps:
 1. Go to https://churchofjesuschristtemples.org/temples/chronology/, and copy the first 5 lines of temple dedications.
@@ -45,8 +45,8 @@ Here's a few lines of temples, just for example:
    - Includes some code
    - An explanation of what the code does
 4. I copy the code ChatGPT gave me.
-5. Then, I go to this website that runs code for free: https://python-fiddle.com/examples/matplotlib.
-6. Replace the sample code they have with what ChatGPT gave me.
+5. Then, I go to this website that runs code for free online: https://python-fiddle.com/examples/matplotlib.
+6. Replace the sample code they have with what ChatGPT gave you.
 7. Add in the whole list of temples from: https://churchofjesuschristtemples.org/temples/chronology/.
 8. Click the "play" button, and view the graph below.
 9. Get rid of the first several lines of temples, so that you can have a proper view.
